@@ -6,7 +6,7 @@
    - using local storage to store data
    - using cookies to store posted
      
-    demo::https://tahashabaan.github.io/AjaxApp/
+demo::https://tahashabaan.github.io/AjaxApp/
 
 ## technology and how to use it!!
   - I use (HTML, CSS and javascript ) only
