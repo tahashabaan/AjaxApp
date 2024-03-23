@@ -1,5 +1,6 @@
 # Ajax App
   in this project using fake API (JSON placeholder) where 
+    demo::https://tahashabaan.github.io/AjaxApp/
    - fetch data then show it in the list
    - add date to placeholder
    - delete data from the app
